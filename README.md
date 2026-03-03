@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ryosuke
 
-<!--
-**yawa-away/yawa-away** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在エンジニアを目指してPythonを中心に学習中です。  
+基礎から着実に積み上げることを意識しています。
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Python
+- Java
+- Ruby
+- PHP
+- JavaScript
+- HTML
+- CSS
+- Git / GitHub
+- JSON / CSV操作
+- CLIアプリ開発
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 📊 Kakeibo App（CSV家計簿アプリ）
+- ✅ Todo App（JSON保存タスク管理アプリ）
+
+## Currently Learning
+- オブジェクト指向設計
+- Webアプリ開発
